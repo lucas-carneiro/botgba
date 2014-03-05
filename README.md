@@ -21,7 +21,7 @@ Português:
 Meu nome é Lucas Carneiro, sou um aluno de ciência da computação da Universidade Federal do Rio de Janeiro (UFRJ).
 Tem algum assunto sobre o projeto para tratar comigo? Mande uma mensagem para: lucas.rod.carneiro@gmail.com.
 
-Inglês:
+English:
 
 My name is Lucas Carneiro, i'm a student of Computer Science at Federal University of Rio de Janeiro (UFRJ).
 Have questions about this project? Send a message to: lucas.rod.carneiro@gmail.com.
